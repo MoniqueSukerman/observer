@@ -1,0 +1,16 @@
+{
+    "name": "monique/observer",
+    "description": "Padrão de projetos Observer",
+    "autoload": {
+        "psr-4": {
+            "Monique\\Observer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Monique",
+            "email": "monique.porciuncula@agilize.com.br"
+        }
+    ],
+    "require": {}
+}
